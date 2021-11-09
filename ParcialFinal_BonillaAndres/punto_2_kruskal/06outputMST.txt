@@ -1,0 +1,10 @@
+
+Resultado de MST (6 aristas)
+Edge (1, 3) weight=1
+Edge (5, 6) weight=1
+Edge (5, 7) weight=2
+Edge (1, 2) weight=3
+Edge (2, 5) weight=5
+Edge (4, 5) weight=6
+
+Peso total de todas las arista en MST = 18
